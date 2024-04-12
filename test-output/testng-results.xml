@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-12T21:38:48 IST" name="Suite" finished-at="2024-04-12T21:52:49 IST" duration-ms="841079">
+    <groups>
+    </groups>
+    <test started-at="2024-04-12T21:38:48 IST" name="Test" finished-at="2024-04-12T21:52:49 IST" duration-ms="841079">
+      <class name="com.TestCases.TC_LoginTest_003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_003@a38c7fe]" started-at="2024-04-12T21:39:33 IST" name="setup" finished-at="2024-04-12T21:39:37 IST" duration-ms="4081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_003@a38c7fe]" started-at="2024-04-12T21:39:37 IST" name="loginTest" finished-at="2024-04-12T21:40:05 IST" duration-ms="27454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_003@a38c7fe]" started-at="2024-04-12T21:40:05 IST" name="tearDown" finished-at="2024-04-12T21:40:07 IST" duration-ms="1928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_003 -->
+      <class name="com.TestCases.TC_LoginTest_004">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_004@6fdbe764]" started-at="2024-04-12T21:40:07 IST" name="setup" finished-at="2024-04-12T21:40:12 IST" duration-ms="5600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_004@6fdbe764]" started-at="2024-04-12T21:40:12 IST" name="loginTest" finished-at="2024-04-12T21:40:41 IST" duration-ms="28548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_004@6fdbe764]" started-at="2024-04-12T21:40:41 IST" name="tearDown" finished-at="2024-04-12T21:40:42 IST" duration-ms="1466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_004 -->
+      <class name="com.TestCases.TC_LoginTest_005">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_005@51c668e3]" started-at="2024-04-12T21:40:42 IST" name="setup" finished-at="2024-04-12T21:40:52 IST" duration-ms="9007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_005@51c668e3]" started-at="2024-04-12T21:40:52 IST" name="loginTest" finished-at="2024-04-12T21:41:18 IST" duration-ms="26573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_005@51c668e3]" started-at="2024-04-12T21:41:18 IST" name="tearDown" finished-at="2024-04-12T21:41:22 IST" duration-ms="3833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_005 -->
+      <class name="com.TestCases.TC_CreateAccTest_020">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_020@791f145a]" started-at="2024-04-12T21:48:18 IST" name="setup" finished-at="2024-04-12T21:48:21 IST" duration-ms="3369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_020@791f145a]" started-at="2024-04-12T21:48:21 IST" name="loginTest" finished-at="2024-04-12T21:48:39 IST" duration-ms="18314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_020@791f145a]" started-at="2024-04-12T21:48:39 IST" name="tearDown" finished-at="2024-04-12T21:48:40 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_020 -->
+      <class name="com.TestCases.TC_LoginTest_006">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_006@2e6a8155]" started-at="2024-04-12T21:41:22 IST" name="setup" finished-at="2024-04-12T21:41:29 IST" duration-ms="6842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_006@2e6a8155]" started-at="2024-04-12T21:41:29 IST" name="loginTest" finished-at="2024-04-12T21:41:52 IST" duration-ms="23668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_006@2e6a8155]" started-at="2024-04-12T21:41:52 IST" name="tearDown" finished-at="2024-04-12T21:41:54 IST" duration-ms="1507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_006 -->
+      <class name="com.TestCases.TC_LoginTest_007">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_007@6221a451]" started-at="2024-04-12T21:41:54 IST" name="setup" finished-at="2024-04-12T21:42:00 IST" duration-ms="5687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_007@6221a451]" started-at="2024-04-12T21:42:00 IST" name="loginTest" finished-at="2024-04-12T21:42:31 IST" duration-ms="31302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_007@6221a451]" started-at="2024-04-12T21:42:31 IST" name="tearDown" finished-at="2024-04-12T21:42:35 IST" duration-ms="3824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_007 -->
+      <class name="com.TestCases.TC_LoginTest_008">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_008@52719fb6]" started-at="2024-04-12T21:42:35 IST" name="setup" finished-at="2024-04-12T21:42:43 IST" duration-ms="8625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_008@52719fb6]" started-at="2024-04-12T21:42:43 IST" name="loginTest" finished-at="2024-04-12T21:43:12 IST" duration-ms="28726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_008@52719fb6]" started-at="2024-04-12T21:43:12 IST" name="tearDown" finished-at="2024-04-12T21:43:15 IST" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_008 -->
+      <class name="com.TestCases.TC_LoginTest_009">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_009@25641d39]" started-at="2024-04-12T21:43:15 IST" name="setup" finished-at="2024-04-12T21:43:23 IST" duration-ms="8174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_009@25641d39]" started-at="2024-04-12T21:43:23 IST" name="loginTest" finished-at="2024-04-12T21:43:47 IST" duration-ms="23108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_009@25641d39]" started-at="2024-04-12T21:43:47 IST" name="tearDown" finished-at="2024-04-12T21:43:48 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_009 -->
+      <class name="com.TestCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_001@121314f7]" started-at="2024-04-12T21:38:48 IST" name="setup" finished-at="2024-04-12T21:38:57 IST" duration-ms="8977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_001@121314f7]" started-at="2024-04-12T21:38:57 IST" name="loginTest" finished-at="2024-04-12T21:39:31 IST" duration-ms="33876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_001@121314f7]" started-at="2024-04-12T21:39:31 IST" name="tearDown" finished-at="2024-04-12T21:39:33 IST" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_001 -->
+      <class name="com.TestCases.TC_CreateAccTest_013">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_013@5677323c]" started-at="2024-04-12T21:45:28 IST" name="setup" finished-at="2024-04-12T21:45:30 IST" duration-ms="2383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_013@5677323c]" started-at="2024-04-12T21:45:30 IST" name="loginTest" finished-at="2024-04-12T21:45:47 IST" duration-ms="16989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_013@5677323c]" started-at="2024-04-12T21:45:47 IST" name="tearDown" finished-at="2024-04-12T21:45:48 IST" duration-ms="1146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_013 -->
+      <class name="com.TestCases.TC_CreateAccTest_014">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_014@18df8434]" started-at="2024-04-12T21:45:48 IST" name="setup" finished-at="2024-04-12T21:45:50 IST" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_014@18df8434]" started-at="2024-04-12T21:45:50 IST" name="loginTest" finished-at="2024-04-12T21:46:17 IST" duration-ms="26806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_014@18df8434]" started-at="2024-04-12T21:46:17 IST" name="tearDown" finished-at="2024-04-12T21:46:19 IST" duration-ms="1341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_014 -->
+      <class name="com.TestCases.TC_CreateAccTest_015">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_015@65c7a252]" started-at="2024-04-12T21:46:19 IST" name="setup" finished-at="2024-04-12T21:46:20 IST" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_015@65c7a252]" started-at="2024-04-12T21:46:20 IST" name="loginTest" finished-at="2024-04-12T21:46:39 IST" duration-ms="19196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_015@65c7a252]" started-at="2024-04-12T21:46:39 IST" name="tearDown" finished-at="2024-04-12T21:46:40 IST" duration-ms="925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_015 -->
+      <class name="com.TestCases.TC_CreateAccTest_016">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_016@4d154ccd]" started-at="2024-04-12T21:46:40 IST" name="setup" finished-at="2024-04-12T21:46:44 IST" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_016@4d154ccd]" started-at="2024-04-12T21:46:44 IST" name="loginTest" finished-at="2024-04-12T21:47:07 IST" duration-ms="22782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_016@4d154ccd]" started-at="2024-04-12T21:47:07 IST" name="tearDown" finished-at="2024-04-12T21:47:08 IST" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_016 -->
+      <class name="com.TestCases.TC_CreateAccTest_012">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_012@537f60bf]" started-at="2024-04-12T21:44:56 IST" name="setup" finished-at="2024-04-12T21:45:02 IST" duration-ms="6496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_012@537f60bf]" started-at="2024-04-12T21:45:02 IST" name="loginTest" finished-at="2024-04-12T21:45:27 IST" duration-ms="24562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_012@537f60bf]" started-at="2024-04-12T21:45:27 IST" name="tearDown" finished-at="2024-04-12T21:45:28 IST" duration-ms="835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_012 -->
+      <class name="com.TestCases.TC_CreateAccTest_017">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_017@229c6181]" started-at="2024-04-12T21:47:08 IST" name="setup" finished-at="2024-04-12T21:47:10 IST" duration-ms="1900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_017@229c6181]" started-at="2024-04-12T21:47:10 IST" name="loginTest" finished-at="2024-04-12T21:47:33 IST" duration-ms="23663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_017@229c6181]" started-at="2024-04-12T21:47:33 IST" name="tearDown" finished-at="2024-04-12T21:47:34 IST" duration-ms="992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_017 -->
+      <class name="com.TestCases.TC_CreateAccTest_018">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_018@4686afc2]" started-at="2024-04-12T21:47:34 IST" name="setup" finished-at="2024-04-12T21:47:36 IST" duration-ms="1782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_018@4686afc2]" started-at="2024-04-12T21:47:36 IST" name="loginTest" finished-at="2024-04-12T21:47:54 IST" duration-ms="17830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_018@4686afc2]" started-at="2024-04-12T21:47:54 IST" name="tearDown" finished-at="2024-04-12T21:47:56 IST" duration-ms="1738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_018 -->
+      <class name="com.TestCases.TC_LoginTest_010">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_010@7b36aa0c]" started-at="2024-04-12T21:43:48 IST" name="setup" finished-at="2024-04-12T21:43:52 IST" duration-ms="4319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_010@7b36aa0c]" started-at="2024-04-12T21:43:52 IST" name="loginTest" finished-at="2024-04-12T21:44:13 IST" duration-ms="20842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_010@7b36aa0c]" started-at="2024-04-12T21:44:13 IST" name="tearDown" finished-at="2024-04-12T21:44:14 IST" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_010 -->
+      <class name="com.TestCases.TC_CreateAccTest_019">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_CreateAccTest_019@1e0b4072]" started-at="2024-04-12T21:47:56 IST" name="setup" finished-at="2024-04-12T21:47:57 IST" duration-ms="1845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_CreateAccTest_019@1e0b4072]" started-at="2024-04-12T21:47:57 IST" name="loginTest" finished-at="2024-04-12T21:48:17 IST" duration-ms="19268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_CreateAccTest_019@1e0b4072]" started-at="2024-04-12T21:48:17 IST" name="tearDown" finished-at="2024-04-12T21:48:18 IST" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_CreateAccTest_019 -->
+      <class name="com.TestCases.TC_LoginTest_011">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_LoginTest_011@5824a83d]" started-at="2024-04-12T21:44:14 IST" name="setup" finished-at="2024-04-12T21:44:19 IST" duration-ms="4966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.TestCases.TC_LoginTest_011@5824a83d]" started-at="2024-04-12T21:44:19 IST" name="loginTest" finished-at="2024-04-12T21:44:53 IST" duration-ms="34371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_LoginTest_011@5824a83d]" started-at="2024-04-12T21:44:53 IST" name="tearDown" finished-at="2024-04-12T21:44:56 IST" duration-ms="2646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_LoginTest_011 -->
+      <class name="com.TestCases.TC_HomePageTest_021">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_HomePageTest_021@38cee291]" started-at="2024-04-12T21:48:40 IST" name="setup" finished-at="2024-04-12T21:48:42 IST" duration-ms="1807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTest()[pri:0, instance:com.TestCases.TC_HomePageTest_021@38cee291]" started-at="2024-04-12T21:48:42 IST" name="homePageTest" finished-at="2024-04-12T21:49:09 IST" duration-ms="27048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_HomePageTest_021@38cee291]" started-at="2024-04-12T21:49:09 IST" name="tearDown" finished-at="2024-04-12T21:49:10 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_HomePageTest_021 -->
+      <class name="com.TestCases.TC_HomePageTest_022">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_HomePageTest_022@4b45a2f5]" started-at="2024-04-12T21:49:10 IST" name="setup" finished-at="2024-04-12T21:49:13 IST" duration-ms="3023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTest()[pri:0, instance:com.TestCases.TC_HomePageTest_022@4b45a2f5]" started-at="2024-04-12T21:49:13 IST" name="homePageTest" finished-at="2024-04-12T21:49:42 IST" duration-ms="29226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_HomePageTest_022@4b45a2f5]" started-at="2024-04-12T21:49:42 IST" name="tearDown" finished-at="2024-04-12T21:49:44 IST" duration-ms="1353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_HomePageTest_022 -->
+      <class name="com.TestCases.TC_HomePageTest_027">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_HomePageTest_027@6340e5f0]" started-at="2024-04-12T21:52:17 IST" name="setup" finished-at="2024-04-12T21:52:22 IST" duration-ms="5358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTest()[pri:0, instance:com.TestCases.TC_HomePageTest_027@6340e5f0]" started-at="2024-04-12T21:52:22 IST" name="homePageTest" finished-at="2024-04-12T21:52:48 IST" duration-ms="26041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_HomePageTest_027@6340e5f0]" started-at="2024-04-12T21:52:48 IST" name="tearDown" finished-at="2024-04-12T21:52:49 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_HomePageTest_027 -->
+      <class name="com.TestCases.TC_HomePageTest_025">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_HomePageTest_025@41a0aa7d]" started-at="2024-04-12T21:51:03 IST" name="setup" finished-at="2024-04-12T21:51:11 IST" duration-ms="7726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTest()[pri:0, instance:com.TestCases.TC_HomePageTest_025@41a0aa7d]" started-at="2024-04-12T21:51:11 IST" name="homePageTest" finished-at="2024-04-12T21:51:34 IST" duration-ms="22836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_HomePageTest_025@41a0aa7d]" started-at="2024-04-12T21:51:34 IST" name="tearDown" finished-at="2024-04-12T21:51:35 IST" duration-ms="931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_HomePageTest_025 -->
+      <class name="com.TestCases.TC_HomePageTest_026">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_HomePageTest_026@2794eab6]" started-at="2024-04-12T21:51:35 IST" name="setup" finished-at="2024-04-12T21:51:39 IST" duration-ms="4288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTest()[pri:0, instance:com.TestCases.TC_HomePageTest_026@2794eab6]" started-at="2024-04-12T21:51:39 IST" name="homePageTest" finished-at="2024-04-12T21:52:14 IST" duration-ms="35123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_HomePageTest_026@2794eab6]" started-at="2024-04-12T21:52:14 IST" name="tearDown" finished-at="2024-04-12T21:52:17 IST" duration-ms="2592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_HomePageTest_026 -->
+      <class name="com.TestCases.TC_HomePageTest_023">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_HomePageTest_023@f09733f]" started-at="2024-04-12T21:49:44 IST" name="setup" finished-at="2024-04-12T21:49:49 IST" duration-ms="5460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTest()[pri:0, instance:com.TestCases.TC_HomePageTest_023@f09733f]" started-at="2024-04-12T21:49:49 IST" name="homePageTest" finished-at="2024-04-12T21:50:11 IST" duration-ms="21676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_HomePageTest_023@f09733f]" started-at="2024-04-12T21:50:11 IST" name="tearDown" finished-at="2024-04-12T21:50:12 IST" duration-ms="1164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_HomePageTest_023 -->
+      <class name="com.TestCases.TC_HomePageTest_024">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestCases.TC_HomePageTest_024@e350b40]" started-at="2024-04-12T21:50:12 IST" name="setup" finished-at="2024-04-12T21:50:16 IST" duration-ms="3654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageTest()[pri:0, instance:com.TestCases.TC_HomePageTest_024@e350b40]" started-at="2024-04-12T21:50:16 IST" name="homePageTest" finished-at="2024-04-12T21:51:01 IST" duration-ms="45132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.TC_HomePageTest_024@e350b40]" started-at="2024-04-12T21:51:01 IST" name="tearDown" finished-at="2024-04-12T21:51:03 IST" duration-ms="2315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.TC_HomePageTest_024 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

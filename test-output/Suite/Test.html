@@ -1,0 +1,209 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>26/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Apr 12 21:38:48 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>841 seconds (841079 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_020.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_020</td>
+<td></td>
+<td>18</td>
+<td>com.TestCases.TC_CreateAccTest_020@791f145a</td></tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_012.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_012</td>
+<td></td>
+<td>24</td>
+<td>com.TestCases.TC_CreateAccTest_012@537f60bf</td></tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_018.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_018</td>
+<td></td>
+<td>17</td>
+<td>com.TestCases.TC_CreateAccTest_018@4686afc2</td></tr>
+<tr>
+<td title='com.TestCases.TC_HomePageTest_024.homePageTest()'><b>homePageTest</b><br>Test class: com.TestCases.TC_HomePageTest_024</td>
+<td></td>
+<td>45</td>
+<td>com.TestCases.TC_HomePageTest_024@e350b40</td></tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_019.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_019</td>
+<td></td>
+<td>19</td>
+<td>com.TestCases.TC_CreateAccTest_019@1e0b4072</td></tr>
+<tr>
+<td title='com.TestCases.TC_HomePageTest_022.homePageTest()'><b>homePageTest</b><br>Test class: com.TestCases.TC_HomePageTest_022</td>
+<td></td>
+<td>29</td>
+<td>com.TestCases.TC_HomePageTest_022@4b45a2f5</td></tr>
+<tr>
+<td title='com.TestCases.TC_HomePageTest_025.homePageTest()'><b>homePageTest</b><br>Test class: com.TestCases.TC_HomePageTest_025</td>
+<td></td>
+<td>22</td>
+<td>com.TestCases.TC_HomePageTest_025@41a0aa7d</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_004.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_004</td>
+<td></td>
+<td>28</td>
+<td>com.TestCases.TC_LoginTest_004@6fdbe764</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_005.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_005</td>
+<td></td>
+<td>26</td>
+<td>com.TestCases.TC_LoginTest_005@51c668e3</td></tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_013.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_013</td>
+<td></td>
+<td>16</td>
+<td>com.TestCases.TC_CreateAccTest_013@5677323c</td></tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_015.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_015</td>
+<td></td>
+<td>19</td>
+<td>com.TestCases.TC_CreateAccTest_015@65c7a252</td></tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_017.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_017</td>
+<td></td>
+<td>23</td>
+<td>com.TestCases.TC_CreateAccTest_017@229c6181</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_006.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_006</td>
+<td></td>
+<td>23</td>
+<td>com.TestCases.TC_LoginTest_006@2e6a8155</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_007.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_007</td>
+<td></td>
+<td>31</td>
+<td>com.TestCases.TC_LoginTest_007@6221a451</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_011.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_011</td>
+<td></td>
+<td>34</td>
+<td>com.TestCases.TC_LoginTest_011@5824a83d</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_010.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_010</td>
+<td></td>
+<td>20</td>
+<td>com.TestCases.TC_LoginTest_010@7b36aa0c</td></tr>
+<tr>
+<td title='com.TestCases.TC_HomePageTest_023.homePageTest()'><b>homePageTest</b><br>Test class: com.TestCases.TC_HomePageTest_023</td>
+<td></td>
+<td>21</td>
+<td>com.TestCases.TC_HomePageTest_023@f09733f</td></tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_016.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_016</td>
+<td></td>
+<td>22</td>
+<td>com.TestCases.TC_CreateAccTest_016@4d154ccd</td></tr>
+<tr>
+<td title='com.TestCases.TC_HomePageTest_026.homePageTest()'><b>homePageTest</b><br>Test class: com.TestCases.TC_HomePageTest_026</td>
+<td></td>
+<td>35</td>
+<td>com.TestCases.TC_HomePageTest_026@2794eab6</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_003.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_003</td>
+<td></td>
+<td>27</td>
+<td>com.TestCases.TC_LoginTest_003@a38c7fe</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_008.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_008</td>
+<td></td>
+<td>28</td>
+<td>com.TestCases.TC_LoginTest_008@52719fb6</td></tr>
+<tr>
+<td title='com.TestCases.TC_HomePageTest_027.homePageTest()'><b>homePageTest</b><br>Test class: com.TestCases.TC_HomePageTest_027</td>
+<td></td>
+<td>26</td>
+<td>com.TestCases.TC_HomePageTest_027@6340e5f0</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_009.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_009</td>
+<td></td>
+<td>23</td>
+<td>com.TestCases.TC_LoginTest_009@25641d39</td></tr>
+<tr>
+<td title='com.TestCases.TC_CreateAccTest_014.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_CreateAccTest_014</td>
+<td></td>
+<td>26</td>
+<td>com.TestCases.TC_CreateAccTest_014@18df8434</td></tr>
+<tr>
+<td title='com.TestCases.TC_LoginTest_001.loginTest()'><b>loginTest</b><br>Test class: com.TestCases.TC_LoginTest_001</td>
+<td></td>
+<td>33</td>
+<td>com.TestCases.TC_LoginTest_001@121314f7</td></tr>
+<tr>
+<td title='com.TestCases.TC_HomePageTest_021.homePageTest()'><b>homePageTest</b><br>Test class: com.TestCases.TC_HomePageTest_021</td>
+<td></td>
+<td>27</td>
+<td>com.TestCases.TC_HomePageTest_021@38cee291</td></tr>
+</table><p>
+</body>
+</html>

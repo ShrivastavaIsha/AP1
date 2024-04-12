@@ -1,0 +1,191 @@
+2024-04-12 21:39:22 INFO  Magneto:22 - Signin link clicked
+2024-04-12 21:39:25 INFO  Magneto:25 - Email is set
+2024-04-12 21:39:25 INFO  Magneto:27 - Password is set
+2024-04-12 21:39:30 INFO  Magneto:29 - Signin button cliked
+2024-04-12 21:39:31 INFO  Magneto:42 - Login successful
+2024-04-12 21:39:31 INFO  Magneto:43 - Login test case 1 is passed
+2024-04-12 21:39:58 INFO  Magneto:20 - Signin link cicked
+2024-04-12 21:40:03 INFO  Magneto:23 - Email id set
+2024-04-12 21:40:03 INFO  Magneto:24 - Password is missing
+2024-04-12 21:40:04 INFO  Magneto:26 - Sign in button clicked
+2024-04-12 21:40:05 INFO  Magneto:39 - Login unsuccessful
+2024-04-12 21:40:05 INFO  Magneto:40 - Login test case 3 is passed
+2024-04-12 21:40:32 INFO  Magneto:20 - Signin link clicked
+2024-04-12 21:40:32 INFO  Magneto:21 - Email id is missing
+2024-04-12 21:40:32 INFO  Magneto:24 - Password set
+2024-04-12 21:40:40 INFO  Magneto:26 - Singin button clicked
+2024-04-12 21:40:41 INFO  Magneto:39 - Login unsuccessful
+2024-04-12 21:40:41 INFO  Magneto:40 - Login test case 4 is passed
+2024-04-12 21:41:10 INFO  Magneto:20 - Signin link clicked
+2024-04-12 21:41:10 INFO  Magneto:22 - Email id is missing
+2024-04-12 21:41:10 INFO  Magneto:23 - Pasword is missing
+2024-04-12 21:41:14 INFO  Magneto:25 - Sign in button clicked
+2024-04-12 21:41:18 INFO  Magneto:38 - Login unsuccessful
+2024-04-12 21:41:18 INFO  Magneto:39 - Login test case 5 is passed
+2024-04-12 21:41:49 INFO  Magneto:20 - Signin link clicked 
+2024-04-12 21:41:51 INFO  Magneto:23 - Wrong format email id set
+2024-04-12 21:41:51 INFO  Magneto:25 - Password set
+2024-04-12 21:41:51 INFO  Magneto:27 - Sign in button clicked
+2024-04-12 21:41:52 INFO  Magneto:40 - Login unsuccessful
+2024-04-12 21:41:52 INFO  Magneto:41 - Login test case 6 is passed
+2024-04-12 21:42:17 INFO  Magneto:20 - Signin link clicked
+2024-04-12 21:42:25 INFO  Magneto:23 - Create account button clicked
+2024-04-12 21:42:31 INFO  Magneto:35 - Create account button navigate to create account form
+2024-04-12 21:42:31 INFO  Magneto:36 - Login test case 7 is passed
+2024-04-12 21:43:05 INFO  Magneto:20 - Signin link clicked
+2024-04-12 21:43:09 INFO  Magneto:23 - Forgot password link clicked
+2024-04-12 21:43:12 INFO  Magneto:35 - Forgot password button navigate to forgot password page
+2024-04-12 21:43:12 INFO  Magneto:36 - Login test case 8 is passed 
+2024-04-12 21:43:37 INFO  Magneto:20 - Signin link clicked
+2024-04-12 21:43:40 INFO  Magneto:23 - forgot password link cliked
+2024-04-12 21:43:40 INFO  Magneto:24 - Navigate
+2024-04-12 21:43:41 INFO  Magneto:26 - Email id set
+2024-04-12 21:43:46 INFO  Magneto:28 - Reset button clicked
+2024-04-12 21:43:47 INFO  Magneto:40 - Password recovered
+2024-04-12 21:43:47 INFO  Magneto:41 - Login test case 9 is passed 
+2024-04-12 21:44:08 INFO  Magneto:20 - Signin link clicked
+2024-04-12 21:44:12 INFO  Magneto:23 - Forgot password link clicked
+2024-04-12 21:44:12 INFO  Magneto:24 - Navigate to forgot password page 
+2024-04-12 21:44:12 INFO  Magneto:26 - Email id is missing
+2024-04-12 21:44:12 INFO  Magneto:27 - Clicked reset button
+2024-04-12 21:44:13 INFO  Magneto:39 - Password recovery unsuccessful
+2024-04-12 21:44:13 INFO  Magneto:40 - Login test case 10 is passed 
+2024-04-12 21:44:38 INFO  Magneto:20 - Signin link clicked
+2024-04-12 21:44:43 INFO  Magneto:23 - Forgot password link clicked
+2024-04-12 21:44:43 INFO  Magneto:25 - Wrong format email id set
+2024-04-12 21:44:43 INFO  Magneto:27 - Reset button clicked
+2024-04-12 21:44:53 INFO  Magneto:39 - Password recovery unsuccessful
+2024-04-12 21:44:53 INFO  Magneto:40 - Login test case 11 is passed 
+2024-04-12 21:45:20 INFO  Magneto:21 - Create account link clicked
+2024-04-12 21:45:21 INFO  Magneto:23 - First name set
+2024-04-12 21:45:21 INFO  Magneto:25 - Last name set
+2024-04-12 21:45:21 INFO  Magneto:27 - Email id set
+2024-04-12 21:45:22 INFO  Magneto:29 - Password set
+2024-04-12 21:45:22 INFO  Magneto:31 - Confirm password set
+2024-04-12 21:45:26 INFO  Magneto:33 - Create account button clicked
+2024-04-12 21:45:27 INFO  Magneto:45 - Account Created successfully
+2024-04-12 21:45:27 INFO  Magneto:46 - Create account test case 12 is passed
+2024-04-12 21:45:46 INFO  Magneto:20 - Create account link clicked
+2024-04-12 21:45:46 INFO  Magneto:23 - Create account button clicked
+2024-04-12 21:45:46 INFO  Magneto:24 - Required field are vacant
+2024-04-12 21:45:47 INFO  Magneto:36 - Account doesn't Create successfully
+2024-04-12 21:45:47 INFO  Magneto:37 - Create account test case 13 is passed
+2024-04-12 21:46:15 INFO  Magneto:20 - Create account link clicked
+2024-04-12 21:46:15 INFO  Magneto:23 - First name set
+2024-04-12 21:46:15 INFO  Magneto:25 - last name set
+2024-04-12 21:46:16 INFO  Magneto:27 - Wrong format email id set
+2024-04-12 21:46:16 INFO  Magneto:29 - Password set
+2024-04-12 21:46:16 INFO  Magneto:31 - Confirm password set
+2024-04-12 21:46:16 INFO  Magneto:33 - Create account button clicked
+2024-04-12 21:46:17 INFO  Magneto:45 - Account doesn't Create successfully
+2024-04-12 21:46:17 INFO  Magneto:46 - Create account test case 14 is passed
+2024-04-12 21:46:37 INFO  Magneto:21 - Create account link clicked
+2024-04-12 21:46:37 INFO  Magneto:23 - First name set
+2024-04-12 21:46:38 INFO  Magneto:25 - Last name set
+2024-04-12 21:46:38 INFO  Magneto:27 - Email id set
+2024-04-12 21:46:38 INFO  Magneto:29 - Incorrect format password set
+2024-04-12 21:46:38 INFO  Magneto:31 - Incorrect confirm format password set
+2024-04-12 21:46:38 INFO  Magneto:33 - Create account button clicked
+2024-04-12 21:46:39 INFO  Magneto:45 - Account doesn't Create successfully
+2024-04-12 21:46:39 INFO  Magneto:46 - Create account test case 15 is passed
+2024-04-12 21:47:04 INFO  Magneto:22 - Create account link clicked
+2024-04-12 21:47:05 INFO  Magneto:24 - First name set
+2024-04-12 21:47:05 INFO  Magneto:26 - Last name set
+2024-04-12 21:47:05 INFO  Magneto:28 - Email id set
+2024-04-12 21:47:05 INFO  Magneto:30 - Incorrect format password set
+2024-04-12 21:47:05 INFO  Magneto:32 - Incorrect confirm format password set
+2024-04-12 21:47:06 INFO  Magneto:34 - Create account button clicked
+2024-04-12 21:47:07 INFO  Magneto:46 - Account doesn't Create successfully
+2024-04-12 21:47:07 INFO  Magneto:47 - Create account test case 16 is passed
+2024-04-12 21:47:27 INFO  Magneto:22 - Create account link clicked
+2024-04-12 21:47:28 INFO  Magneto:24 - First name set
+2024-04-12 21:47:28 INFO  Magneto:26 - Last name set
+2024-04-12 21:47:28 INFO  Magneto:28 - Email id set
+2024-04-12 21:47:28 INFO  Magneto:30 - Incorrect format password set
+2024-04-12 21:47:29 INFO  Magneto:32 - Incorrect confirm format password set
+2024-04-12 21:47:32 INFO  Magneto:34 - Create account button clicked
+2024-04-12 21:47:33 INFO  Magneto:46 - Account doesn't Create successfully
+2024-04-12 21:47:33 INFO  Magneto:47 - Create account test case 17 is passed
+2024-04-12 21:47:51 INFO  Magneto:22 - Create account link clicked
+2024-04-12 21:47:52 INFO  Magneto:24 - First name set
+2024-04-12 21:47:52 INFO  Magneto:26 - Last name set
+2024-04-12 21:47:52 INFO  Magneto:28 - Email id set
+2024-04-12 21:47:52 INFO  Magneto:30 - Incorrect format password set
+2024-04-12 21:47:53 INFO  Magneto:32 - Incorrect confirm format password set
+2024-04-12 21:47:53 INFO  Magneto:34 - Create account button clicked
+2024-04-12 21:47:54 INFO  Magneto:46 - Account doesn't Create successfully
+2024-04-12 21:47:54 INFO  Magneto:47 - Create account test case 18 is passed
+2024-04-12 21:48:14 INFO  Magneto:21 - Create account link clicked
+2024-04-12 21:48:15 INFO  Magneto:23 - First name set
+2024-04-12 21:48:15 INFO  Magneto:25 - Last name set
+2024-04-12 21:48:15 INFO  Magneto:27 - Email id set
+2024-04-12 21:48:15 INFO  Magneto:29 - Incorrect format password set
+2024-04-12 21:48:15 INFO  Magneto:31 - Incorrect confirm format password set
+2024-04-12 21:48:15 INFO  Magneto:33 - Create account button clicked
+2024-04-12 21:48:17 INFO  Magneto:45 - Account doesn't Create successfully
+2024-04-12 21:48:17 INFO  Magneto:46 - Create account test case 19 is passed
+2024-04-12 21:48:37 INFO  Magneto:21 - Create account link clicked
+2024-04-12 21:48:37 INFO  Magneto:23 - First name set
+2024-04-12 21:48:38 INFO  Magneto:25 - Last name set
+2024-04-12 21:48:38 INFO  Magneto:27 - Email id set
+2024-04-12 21:48:38 INFO  Magneto:29 - Incorrect format password set
+2024-04-12 21:48:38 INFO  Magneto:31 - Incorrect confirm format password set
+2024-04-12 21:48:38 INFO  Magneto:33 - Create account button clicked
+2024-04-12 21:48:39 INFO  Magneto:45 - Account doesn't Create successfully
+2024-04-12 21:48:39 INFO  Magneto:46 - Create account test case 20 is passed
+2024-04-12 21:48:56 INFO  Magneto:20 - What's new link clicked
+2024-04-12 21:48:59 INFO  Magneto:22 - Tees women link clicked
+2024-04-12 21:49:06 INFO  Magneto:25 - Tees selected
+2024-04-12 21:49:09 INFO  Magneto:27 - XS Size selected
+2024-04-12 21:49:09 INFO  Magneto:29 - Black color tees selected
+2024-04-12 21:49:09 INFO  Magneto:32 - Add to cart clicked
+2024-04-12 21:49:09 INFO  Magneto:45 - product added to cart successfully
+2024-04-12 21:49:09 INFO  Magneto:46 - Home page test case 21 is passed
+2024-04-12 21:49:35 INFO  Magneto:20 - What's new link clicked
+2024-04-12 21:49:39 INFO  Magneto:22 - Tees women link clicked
+2024-04-12 21:49:42 INFO  Magneto:25 - Tees selected
+2024-04-12 21:49:42 INFO  Magneto:27 - Black color tees selected
+2024-04-12 21:49:42 INFO  Magneto:30 - Add to cart clicked
+2024-04-12 21:49:42 INFO  Magneto:31 - Size is missing
+2024-04-12 21:49:42 INFO  Magneto:44 - product not added to cart successfully
+2024-04-12 21:49:42 INFO  Magneto:45 - Home page test case 22 is passed
+2024-04-12 21:50:02 INFO  Magneto:21 - What's new link clicked
+2024-04-12 21:50:05 INFO  Magneto:23 - Tees women link clicked
+2024-04-12 21:50:09 INFO  Magneto:26 - Tees selected
+2024-04-12 21:50:10 INFO  Magneto:28 - Size selected
+2024-04-12 21:50:11 INFO  Magneto:31 - Add to cart clicked
+2024-04-12 21:50:11 INFO  Magneto:32 - Color is missing
+2024-04-12 21:50:11 INFO  Magneto:46 - product not added to cart successfully
+2024-04-12 21:50:11 INFO  Magneto:47 - Home page test case 23 is passed
+2024-04-12 21:50:51 INFO  Magneto:20 - What's new link clicked
+2024-04-12 21:50:53 INFO  Magneto:22 - Tees women link clicked
+2024-04-12 21:50:59 INFO  Magneto:25 - Tees selected
+2024-04-12 21:50:59 INFO  Magneto:27 - S Size selected
+2024-04-12 21:51:01 INFO  Magneto:29 - Yellow color tees selected
+2024-04-12 21:51:01 INFO  Magneto:32 - Add to cart clicked
+2024-04-12 21:51:01 INFO  Magneto:45 - product added to cart successfully
+2024-04-12 21:51:01 INFO  Magneto:46 - Home page test case 24 is passed
+2024-04-12 21:51:21 INFO  Magneto:20 - What's new link clicked
+2024-04-12 21:51:25 INFO  Magneto:22 - Tees women link clicked
+2024-04-12 21:51:31 INFO  Magneto:25 - Tees selected
+2024-04-12 21:51:31 INFO  Magneto:27 - M Size selected
+2024-04-12 21:51:34 INFO  Magneto:29 - Orange color tees selected
+2024-04-12 21:51:34 INFO  Magneto:32 - Add to cart clicked
+2024-04-12 21:51:34 INFO  Magneto:45 - product added to cart successfully
+2024-04-12 21:51:34 INFO  Magneto:46 - Home page test case 25 is passed
+2024-04-12 21:51:52 INFO  Magneto:20 - What's new link clicked
+2024-04-12 21:51:55 INFO  Magneto:22 - Tees women link clicked
+2024-04-12 21:52:02 INFO  Magneto:25 - Tees selected
+2024-04-12 21:52:13 INFO  Magneto:27 - L Size selected
+2024-04-12 21:52:13 INFO  Magneto:29 - Black color tees selected
+2024-04-12 21:52:14 INFO  Magneto:32 - Add to cart clicked
+2024-04-12 21:52:14 INFO  Magneto:45 - product added to cart successfully
+2024-04-12 21:52:14 INFO  Magneto:46 - Home page test case 26 is passed
+2024-04-12 21:52:38 INFO  Magneto:20 - What's new link clicked
+2024-04-12 21:52:42 INFO  Magneto:22 - Tees women link clicked
+2024-04-12 21:52:47 INFO  Magneto:25 - Tees selected
+2024-04-12 21:52:47 INFO  Magneto:27 - Xl Size selected
+2024-04-12 21:52:48 INFO  Magneto:29 - Black color tees selected
+2024-04-12 21:52:48 INFO  Magneto:32 - Add to cart clicked
+2024-04-12 21:52:48 INFO  Magneto:45 - product added to cart successfully
+2024-04-12 21:52:48 INFO  Magneto:46 - Home page test case 27 is passed

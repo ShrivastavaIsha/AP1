@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	
+	<!--<listeners>
+		<listener class-name="com.Utilities.Reporting"></listener>
+	</listeners>-->
+	
+	
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.TestCases.TC_LoginTest_001"/>
+      <class name="com.TestCases.TC_LoginTest_003"/>
+      <class name="com.TestCases.TC_LoginTest_004"/>
+      <class name="com.TestCases.TC_LoginTest_005"/>
+      <class name="com.TestCases.TC_LoginTest_006"/>
+      <class name="com.TestCases.TC_LoginTest_007"/>
+      <class name="com.TestCases.TC_LoginTest_008"/>
+      <class name="com.TestCases.TC_LoginTest_009"/>
+      <class name="com.TestCases.TC_LoginTest_010"/>
+      <class name="com.TestCases.TC_LoginTest_011"/>
+      <class name="com.TestCases.TC_CreateAccTest_012"/>
+      <class name="com.TestCases.TC_CreateAccTest_013"/>
+      <class name="com.TestCases.TC_CreateAccTest_014"/>
+      <class name="com.TestCases.TC_CreateAccTest_015"/>
+      <class name="com.TestCases.TC_CreateAccTest_016"/>
+      <class name="com.TestCases.TC_CreateAccTest_017"/>
+      <class name="com.TestCases.TC_CreateAccTest_018"/>
+      <class name="com.TestCases.TC_CreateAccTest_019"/>
+      <class name="com.TestCases.TC_CreateAccTest_020"/>
+      <class name="com.TestCases.TC_HomePageTest_021"/>
+      <class name="com.TestCases.TC_HomePageTest_022"/>
+      <class name="com.TestCases.TC_HomePageTest_023"/>
+      <class name="com.TestCases.TC_HomePageTest_024"/>
+      <class name="com.TestCases.TC_HomePageTest_025"/>
+      <class name="com.TestCases.TC_HomePageTest_026"/>
+      <class name="com.TestCases.TC_HomePageTest_027"/>
+      <!--<class name="com.TestCases.TC_LoginTest_002"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+
+
+
+
+
+
+
+
